@@ -14,7 +14,7 @@ It is designed to help users understand how real banking logic can be structured
 
 ## ⚙️ Features
 
-Create and register customer accounts
+Create and register customer accounts   
  
 Deposit and withdraw money
 
